@@ -4,7 +4,7 @@
 }
 
 .all{
-  font-size: 250px;
+  font-size: 100px;
   display: flex;
   justify-content: center;
   
@@ -15,12 +15,12 @@
 .motto{
   color: white;
   margin-left: 250px;
-  font-size: 200px;
+  font-size: 75px;
 }
 .motto1{
   color: white;
   margin-left: 250px;
-  font-size: 200px;
+  font-size: 75px;
 }
 .p{
   height: 50px;
@@ -31,15 +31,15 @@
 .gv1{
   color: white;
   margin-left: 250px;
-  font-size: 250px;
+  font-size: 75px;
 }
 .gv{
   color: white;
  margin-left: 250px;
-  font-size: 200px;
+  font-size: 75px;
 }
 .gv0{
   color: white;
  margin-left: 250px;
-  font-size: 200px;
+  font-size: 75px;
 }
