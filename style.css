@@ -1,0 +1,45 @@
+*{padding: 0px;
+  margin: 0px;
+  background-color: #4169E1;
+}
+
+.all{
+  font-size: 250px;
+  display: flex;
+  justify-content: center;
+  
+}
+.name1{
+  color: white;
+}
+.motto{
+  color: white;
+  margin-left: 250px;
+  font-size: 200px;
+}
+.motto1{
+  color: white;
+  margin-left: 250px;
+  font-size: 200px;
+}
+.p{
+  height: 50px;
+}
+.p1{
+  height: 50px;
+}
+.gv1{
+  color: white;
+  margin-left: 250px;
+  font-size: 250px;
+}
+.gv{
+  color: white;
+ margin-left: 250px;
+  font-size: 200px;
+}
+.gv0{
+  color: white;
+ margin-left: 250px;
+  font-size: 200px;
+}
